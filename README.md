@@ -1,6 +1,8 @@
 # pavlov-rcon-python
 This repository allows you to easily get started with Pavlov VR RCON commands
 
+`async-pavlov` provided by https://pypi.org/project/async-pavlov/
+
 Make sure you have the latest Python
 https://www.python.org/downloads/
 
